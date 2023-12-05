@@ -6,7 +6,7 @@ I plan to use my GitHub as a personal archive of my coding work and practice. Li
 
 If you wanna know more about me, check out my [rentry](https://rentry.org/visophobia)!
 
-![]() I'm currently studying to be a software dev! ![]()
+![](https://64.media.tumblr.com/f289cdfc0de96089918d04898bb3d129/f54de1e2cdf7c0eb-ce/s75x75_c1/2fecbde88bfbf57aafae86a87ec6a6fa334bc096.gifv) I'm currently studying to be a software dev! ![](https://64.media.tumblr.com/f289cdfc0de96089918d04898bb3d129/f54de1e2cdf7c0eb-ce/s75x75_c1/2fecbde88bfbf57aafae86a87ec6a6fa334bc096.gifv)
 
 The languages I know how to use are:
 - HTML
