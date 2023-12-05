@@ -25,4 +25,5 @@ I also enjoy coding and playing videogames :> my current favourites are Muse Das
 Other things i enjoy talking about are languages, history, science (especially chemistry and biology), animanga, ~~yuri~~, and animals! my fav animals are cephalopods!! 
 
 ***
-![]() ## I hope you have fun on my page! <3 ![]()
+![]() I hope you have fun on my page! <3 ![]()
+---
