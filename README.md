@@ -1,4 +1,6 @@
-## Hi! My name is Occulo!
+![angel wings left](https://64.media.tumblr.com/f289cdfc0de96089918d04898bb3d129/f54de1e2cdf7c0eb-ce/s75x75_c1/2fecbde88bfbf57aafae86a87ec6a6fa334bc096.gifv) Hi! My name is Occulo! ![angel wings right](https://64.media.tumblr.com/e68680e867e06ff2f4690085441a33e6/f54de1e2cdf7c0eb-7c/s75x75_c1/2dffe32b3c1c3ef152104e162a8236d7fad6a6ee.gifv
+)
+---
 ![]()
 ven/cad , esp/eng
 
@@ -6,8 +8,7 @@ I plan to use my GitHub as a personal archive of my coding work and practice. Li
 
 If you wanna know more about me, check out my [rentry](https://rentry.org/visophobia)!
 
-![](https://64.media.tumblr.com/f289cdfc0de96089918d04898bb3d129/f54de1e2cdf7c0eb-ce/s75x75_c1/2fecbde88bfbf57aafae86a87ec6a6fa334bc096.gifv) I'm currently studying to be a software dev! ![](https://64.media.tumblr.com/e68680e867e06ff2f4690085441a33e6/f54de1e2cdf7c0eb-7c/s75x75_c1/2dffe32b3c1c3ef152104e162a8236d7fad6a6ee.gifv
-)
+ I'm currently studying to be a software dev! 
 
 The languages I know how to use are:
 - HTML
