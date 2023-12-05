@@ -23,5 +23,6 @@ I really like to draw! I will have an art gallery done on my [Neocities](https:/
 I also enjoy coding and playing videogames :> my current favourites are Muse Dash, D4DJ, and most of the Touhou games (my favourite is TH11 hehe...)
 
 Other things i enjoy talking about are languages, history, science (especially chemistry and biology), animanga, ~~yuri~~, and animals! my fav animals are cephalopods!! 
+
 ***
 ![]() ## I hope you have fun on my page! <3 ![]()
