@@ -17,6 +17,9 @@ The languages I know how to use are:
 - Python
 - some TI-Basic
 
+And I'm currently learning:
+- C#
+
 I aspire to be an indie game dev someday! :> 
 ***
 ![crossed bandages](https://i.imgur.com/eWa90mJ.gif) HOBBIES ![crossed bandages](https://i.imgur.com/eWa90mJ.gif)
