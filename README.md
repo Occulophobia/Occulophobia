@@ -6,7 +6,7 @@ ven/cad , esp/eng
 
 I plan to use my GitHub as a personal archive of my coding work and practice. Like a portfolio but not everything has to be perfect. This is mostly so I can track my progress and growth as I learn more about development! :D 
 
-If you wanna know more about me, check out my [rentry](https://rentry.org/visophobia)!
+If you wanna know more about me, check out my [rentry](https://rentry.org/SatoriKomeiji)!
 
 ### I'm currently studying to be a software dev! 
 
