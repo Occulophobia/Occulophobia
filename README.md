@@ -1,5 +1,5 @@
 ![angel wings left](https://64.media.tumblr.com/f289cdfc0de96089918d04898bb3d129/f54de1e2cdf7c0eb-ce/s75x75_c1/2fecbde88bfbf57aafae86a87ec6a6fa334bc096.gifv) Hi! My name is Occulo! ![angel wings right](https://64.media.tumblr.com/e68680e867e06ff2f4690085441a33e6/f54de1e2cdf7c0eb-7c/s75x75_c1/2dffe32b3c1c3ef152104e162a8236d7fad6a6ee.gifv
-)
+) 
 ---
 [![IMG-9466.jpg](https://i.postimg.cc/9fDwbq6X/IMG-9466.jpg)](https://postimg.cc/yJzNYW62)
 ven/cad , esp/eng
@@ -13,14 +13,17 @@ If you wanna know more about me, check out my [rentry](https://rentry.org/Satori
 The languages I know how to use are:
 - HTML
 - CSS
-- JavaScript
+- JavaScript (including using Node.js)
 - Python
+- C#
+- SQL
 - some TI-Basic
 
 And I'm currently learning:
-- C#
+- Java
+- C
 
-I do most of my coding in VS Code, and I'm learning how to use Vsual Studio for other projects
+Most of my coding is done on VS Code, but I use Visual Studio for working with C#, and Eclipse IDE for my work with Java!
 
 I aspire to be an indie game dev someday! :> 
 ***
